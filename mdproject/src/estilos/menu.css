@@ -1,0 +1,123 @@
+.contenedor-general {
+    position: relative;
+    top: -7rem;
+}
+
+.contenedor {
+    position: relative;
+    top: -32.7rem;
+    left: 368px;
+    width: 100rem;
+}
+
+.contenedor-submenu {
+    position: relative;
+    left: -24.5px;
+    width: 60.1rem;
+    
+}
+
+.contenedor-2 {
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+    width: 60rem;
+    position: relative;
+    top: -1rem;
+    left: -1.5rem;
+}
+
+
+
+.carta-1 {
+    position: relative;
+    left: -0.4rem;
+    top: 6rem;
+    
+}
+
+.fuente {
+    background-color: #FFFFFF;
+    border-radius: 0 8px 8px 0;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+    width: 50px;
+    height: 120px;
+    position: relative;
+    top: 12rem;
+    left: 61rem;
+   
+}
+
+.carta-2 {
+    border: 1px solid #C1C1C1;
+    border-radius: 4px;
+    width: 21rem;
+    height: 97px;
+    position: relative;
+    top: 0.35rem;
+    left: 0.35rem;
+}
+
+.carta-3 {
+    border: 1px solid #C1C1C1;
+    border-radius: 4px;
+    width: 21rem;
+    height: 67px;
+    position: relative;
+    top: 0.7rem;
+    left: 0.35rem
+}
+
+.carta-4 {
+    border: 1px solid #C1C1C1;
+    border-radius: 4px;
+    width: 21rem;
+    height: 89px;
+    position: relative;
+    top: 1.05rem;
+    left: 0.35rem
+}
+
+.carta-5 {
+    border: 1px solid #C1C1C1;
+    border-radius: 4px;
+    width: 21rem;
+    height: 130px;
+    position: relative;
+    top: 1.4rem;
+    left: 0.35rem
+}
+
+.contenido-1 {
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.berserker-1 {
+    position: relative;
+    margin-bottom: 1rem;
+}
+
+.berserker-2 {
+    position: relative;
+    margin-bottom: 0.1rem;
+}
+
+.boton-cancelar {
+    position: relative;
+    top: -32rem;
+    left: 23.1rem;
+}
+
+.boton-continuar {
+    position: relative;
+    top: -34.2rem;
+    left: 75.65rem;
+}
+
+.contenedor-me {
+    width: 25rem;
+    height: 40rem;
+}
+
+

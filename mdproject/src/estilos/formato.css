@@ -1,0 +1,58 @@
+.row {
+    padding: 0;
+    overflow-y: hidden;
+    display: inline;
+}
+
+.asd {
+    position: relative;
+    left: 10rem;
+}
+
+.ubicacion-3 {
+    position: relative;
+    left: 25rem;
+    top: -4.4rem;
+}
+
+.ubicacion-4 {
+    position: relative;
+    left: -1rem;
+    top: 2.5rem;
+}
+
+.ubicacion-5 {
+    position: relative;
+    left: -1rem;
+    top: 2.4rem;
+}
+
+.ubicacion-6 {
+    position: relative;
+    left: 4.5rem;
+    top: -4.5rem;
+}
+
+.calendar {
+    height: 3.1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 12rem;
+    position: relative;
+    top: 0.65rem;
+    left: 0.5rem;
+    border-radius: 0.3rem;
+}
+.calendar-2 {
+    height: 3.1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 12rem;
+    position: relative;
+    top: -7.8rem;
+    left: 13.8rem;
+    border-radius: 0.3rem;
+}
+
+.position {
+    position: relative;
+    top:1.5rem;
+}
